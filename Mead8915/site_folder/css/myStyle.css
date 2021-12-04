@@ -1,0 +1,53 @@
+/* STYLE SHEET FOR (personal web site) */
+/* OLIVE (OLIVIA) MEADOWS */
+
+body {
+	background-image: url('../images/Background.png');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	background-position: center;
+}
+
+h1 {
+	font-weight: bold;
+	text-decoration: underline;
+	color: #EE3333;
+	font-size: 160%;
+	margin-bottom: 25px;
+	margin-top: 0px;
+}
+
+nav {
+	background-image: url('../images/Nav.png');
+	background-repeat: no-repeat;
+	background-size: 801px 150px;
+	background-position: 50% 20px;
+
+
+}
+
+Footer {
+	text-align: center;
+}
+
+ol {
+  display: table;
+  margin: 0 auto;
+}
+
+.center {
+margin-left: auto;
+margin-right: auto;
+}
+
+Home table {
+	border: 0px solid black;
+}
+
+#InterTable, #InterTable td, #InterTable th {
+	 border: 1px solid black;
+	 border-collapse: collapse;
+	 margin-left: auto;
+	 margin-right: auto;
+}
